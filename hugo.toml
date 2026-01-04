@@ -1,0 +1,7 @@
+baseURL = "http://localhost:8081"
+languageCode = 'en-us'
+title = 'Fuzaze BLOG'
+theme = 'PaperMod'
+  # Enable post-to-post navigation
+  ShowPostNavLinks = true
+  mainSections = ["posts"]

@@ -1,0 +1,10 @@
+{{ if and .IsPage (eq .Section "posts") }}
+<nav class="post-nav" style="margin: 2rem 0; display: flex; justify-content: space-between; gap: 1rem; font-size: 0.95em;">
+  {{ with .Prev }}
+    <a href="{{ .RelPermalink }}" style="color: var(--theme-color); text-decoration: none;">&larr; Older: {{ .Title }}</a>
+  {{ end }}
+  {{ with .Next }}
+    <a href="{{ .RelPermalink }}" style="color: var(--theme-color); text-decoration: none;">Newer: {{ .Title }} &rarr;</a>
+  {{ end }}
+</nav>
+{{ end }}

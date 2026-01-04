@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:8081/</loc>
+    <lastmod>2026-01-04T18:28:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8081/posts/2026-01-04-markdown-test/</loc>
+    <lastmod>2026-01-04T18:28:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8081/posts/</loc>
+    <lastmod>2026-01-04T18:28:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8081/posts/2026-01-04-my-amazing-hugo-post/</loc>
+    <lastmod>2026-01-04T16:05:43+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8081/posts/2026-01-04-yamazaki-ier-misiniz/</loc>
+    <lastmod>2026-01-04T16:05:30+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8081/posts/my-first-post/</loc>
+    <lastmod>2026-01-02T21:48:11+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8081/categories/</loc>
+  </url><url>
+    <loc>http://localhost:8081/tags/</loc>
+  </url>
+</urlset>

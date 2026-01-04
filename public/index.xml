@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fuzaze BLOG</title>
+    <link>http://localhost:8081/</link>
+    <description>Recent content on Fuzaze BLOG</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jan 2026 18:28:30 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8081/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Test</title>
+      <link>http://localhost:8081/posts/2026-01-04-markdown-test/</link>
+      <pubDate>Sun, 04 Jan 2026 18:28:30 +0000</pubDate>
+      <guid>http://localhost:8081/posts/2026-01-04-markdown-test/</guid>
+      <description>&lt;h1 id=&#34;welcome&#34;&gt;Welcome!&lt;/h1&gt;
+&lt;p&gt;This is a &lt;strong&gt;bold&lt;/strong&gt; statement and this is &lt;em&gt;italic&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;heres-a-list&#34;&gt;Here&amp;rsquo;s a list:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Apples&lt;/li&gt;
+&lt;li&gt;Bananas&lt;/li&gt;
+&lt;li&gt;Hugo sites&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Remember: Markdown is for &lt;strong&gt;writing&lt;/strong&gt;, not coding.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>My Amazing Hugo Post</title>
+      <link>http://localhost:8081/posts/2026-01-04-my-amazing-hugo-post/</link>
+      <pubDate>Sun, 04 Jan 2026 16:05:43 +0000</pubDate>
+      <guid>http://localhost:8081/posts/2026-01-04-my-amazing-hugo-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yamazaki içer misiniz</title>
+      <link>http://localhost:8081/posts/2026-01-04-yamazaki-ier-misiniz/</link>
+      <pubDate>Sun, 04 Jan 2026 16:05:30 +0000</pubDate>
+      <guid>http://localhost:8081/posts/2026-01-04-yamazaki-ier-misiniz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Different Futuristic Blog</title>
+      <link>http://localhost:8081/posts/my-first-post/</link>
+      <pubDate>Fri, 02 Jan 2026 21:48:11 +0300</pubDate>
+      <guid>http://localhost:8081/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Welcome to the first entry of what I hope becomes a landmark for your curiosity. This blog isn&amp;rsquo;t just a collection of articles; it is a cartography of existence, mapped from the smallest possible pixel to the grandest cosmic tapestry.&lt;/p&gt;
+&lt;p&gt;Here is an elaboration on the vision behind this project, written to set the stage for your future readers.
+The Genesis of the &amp;ldquo;Micro-to-Macro&amp;rdquo; Lens&lt;/p&gt;
+&lt;p&gt;We often look at the world as a finished product—a city, a culture, a body. But to truly understand where we are going, we must look at how things assemble. Our philosophy here is rooted in the belief that the universe is a recursive masterpiece.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
