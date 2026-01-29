@@ -1,0 +1,183 @@
+/* static/css/style.css */
+* {
+  box-sizing: border-box;
+}
+body {
+  background: #e6f7ff;
+  color: #1a1a1a;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  line-height: 1.6;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+h1 { color: #005c99; }
+a { color: #d32f2f; }
+
+/* Tag list */
+.terms li {
+  display: inline-block;
+  margin: 0.25rem;
+}
+.terms a {
+  background: #e0e0e0;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  text-decoration: none;
+}
+/* Site Header - Ananke-inspired */
+.site-header {
+  background-color: #111;
+  color: #f0f0f0;
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+}
+
+.site-header a {
+  color: #fff;
+  text-decoration: none;
+  transition: opacity 0.2s;
+}
+
+.site-header a:hover {
+  opacity: 0.8;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.site-title {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.site-nav a {
+  font-size: 0.95rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+}
+
+.site-nav a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+/* Tag page */
+main ul {
+  list-style: none;
+  padding: 0;
+}
+main li {
+  margin-bottom: 0.75rem;
+}
+main time {
+  color: #666;
+  font-size: 0.9em;
+}
+.article-content {
+  text-align: justify;
+}
+.article-content {
+  text-align: justify;
+  hyphens: auto;          /* better word breaking, especially useful in Turkish */
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+}
+
+.article-content p {
+  margin-bottom: 1.2rem;  /* nicer paragraph spacing */
+}
+/* Category and tag links in navbar dropdowns */
+.dropdown-item {
+  font-size: 0.95rem !important;     /* smaller than post titles */
+  padding: 0.4rem 1.2rem !important; /* tighter spacing */
+}
+
+/* Reduce vertical spacing in dropdown */
+.dropdown-menu {
+  padding: 0.25rem 0 !important;
+}
+
+/* Make sure post titles stay prominent */
+article h1, article h2 {
+  font-size: 2rem !important;        /* or whatever size you prefer */
+}
+/* Tighter dropdown items */
+.dropdown-menu .dropdown-item {
+  padding: 0.35rem 1.25rem !important;   /* smaller vertical + horizontal padding */
+  font-size: 0.95rem !important;
+}
+
+/* Reduce overall dropdown menu padding */
+.dropdown-menu {
+  padding: 0.25rem 0 !important;         /* much less space top/bottom */
+  min-width: 180px;                      /* optional: prevent too narrow */
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.dropdown-menu .dropdown-item {
+  padding: 0.35rem 1rem !important;   /* default is ~0.5rem / 0.75rem → this makes it tighter */
+}
+
+/* Optional: even smaller if you want very compact */
+.dropdown-menu .dropdown-item {
+  padding: 0.25rem 1rem !important;   /* very tight */
+}
+.dropdown-menu {
+  padding: 0.2rem 0 !important;       /* reduces top/bottom padding of the whole menu */
+  margin: 0.25rem 0 !important;       /* reduces space between navbar and menu */
+}
+.dropdown-menu li {
+  margin: 0 !important;
+}
+/* Tighten Bootstrap dropdown spacing */
+.dropdown-menu {
+  padding: 0.2rem 0 !important;
+  margin: 0.25rem 0 !important;
+}
+
+.dropdown-menu .dropdown-item {
+  padding: 0.35rem 1rem !important;
+  font-size: 0.95rem !important;     /* optional: slightly smaller text */
+}
+
+.dropdown-menu li {
+  margin: 0 !important;
+}
+.navbar .dropdown-menu .dropdown-item {
+  padding: 0.3rem 1rem !important;
+}
+/* Make dropdown items much closer together */
+.dropdown-menu .dropdown-item {
+  padding: 0.25rem 1rem !important;     /* very small vertical padding */
+  line-height: 1.3 !important;          /* tighter line height */
+  font-size: 0.95rem !important;        /* slightly smaller text if needed */
+}
+
+/* Remove extra space around the whole dropdown list */
+.dropdown-menu {
+  padding: 0.15rem 0 !important;        /* almost no top/bottom padding */
+  margin: 0.2rem 0 !important;          /* minimal gap from navbar */
+}
+
+/* No margin on list items themselves */
+.dropdown-menu li {
+  margin: 0 !important;
+}
+.dropdown-menu .dropdown-item {
+  font-size: 0.9rem !important;
+  padding: 0.2rem 1rem !important;
+}
