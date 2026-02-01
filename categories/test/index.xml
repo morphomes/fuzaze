@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Test on Fuzaze' Blog</title><link>http://localhost:8081/categories/test/</link><description>Recent content in Test on Fuzaze' Blog</description><generator>Hugo</generator><language>en-us</language><copyright>by Edip AKPINAR 2026</copyright><lastBuildDate>Sun, 04 Jan 2026 18:28:30 +0000</lastBuildDate><atom:link href="http://localhost:8081/categories/test/index.xml" rel="self" type="application/rss+xml"/><item><title>Markdown Test</title><link>http://localhost:8081/posts/2026-01-04-markdown-test/</link><pubDate>Sun, 04 Jan 2026 18:28:30 +0000</pubDate><guid>http://localhost:8081/posts/2026-01-04-markdown-test/</guid><description>&lt;h1 id="welcome"&gt;Welcome!&lt;/h1&gt;
+&lt;p&gt;This is a &lt;strong&gt;bold&lt;/strong&gt; statement and this is &lt;em&gt;italic&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id="heres-a-list"&gt;Here&amp;rsquo;s a list:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Apples&lt;/li&gt;
+&lt;li&gt;Bananas&lt;/li&gt;
+&lt;li&gt;Hugo sites&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Remember: Markdown is for &lt;strong&gt;writing&lt;/strong&gt;, not coding.&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>My Amazing Hugo Post</title><link>http://localhost:8081/posts/2026-01-04-my-amazing-hugo-post/</link><pubDate>Sun, 04 Jan 2026 16:05:43 +0000</pubDate><guid>http://localhost:8081/posts/2026-01-04-my-amazing-hugo-post/</guid><description/></item></channel></rss>
